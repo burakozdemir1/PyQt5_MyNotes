@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="arti">
+    <file>arttir.ico</file>
+  </qresource>
+  <qresource prefix="eksi">
+    <file>azalt.ico</file>
+  </qresource>
+  <qresource prefix="dondurma">
+    <file>dondurma.ico</file>
+  </qresource>
+</RCC>

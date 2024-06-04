@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>558</width>
+    <height>414</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Message Box</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="messagebox.qrc">
+    <normaloff>:/icon/1486564410-chat_81504.ico</normaloff>:/icon/1486564410-chat_81504.ico</iconset>
+  </property>
+  <widget class="QPushButton" name="pushButton_MessageBox">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>260</y>
+     <width>181</width>
+     <height>81</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Message Box</string>
+   </property>
+   <property name="icon">
+    <iconset resource="messagebox.qrc">
+     <normaloff>:/icon/1486564410-chat_81504.ico</normaloff>:/icon/1486564410-chat_81504.ico</iconset>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="messagebox.qrc"/>
+ </resources>
+ <connections/>
+</ui>

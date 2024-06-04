@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="arti">
+    <file>Plus_36851.ico</file>
+  </qresource>
+  <qresource prefix="eksi">
+    <file>Minus_36877.ico</file>
+  </qresource>
+</RCC>
